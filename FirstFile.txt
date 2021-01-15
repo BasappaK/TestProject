@@ -7,3 +7,4 @@ This is the second edit
 I have added the fourth line
 
 This is again from the master
+Adding a line
